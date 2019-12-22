@@ -1,0 +1,14 @@
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueEntityModel\bin\Debug\EstoqueEntityModel.dll.config
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueEntityModel\bin\Debug\EstoqueEntityModel.dll
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueEntityModel\bin\Debug\EstoqueEntityModel.pdb
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueEntityModel\bin\Debug\EntityFramework.dll
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueEntityModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueEntityModel\bin\Debug\EntityFramework.xml
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueEntityModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csproj.CopyComplete
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.dll
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.pdb
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csprojAssemblyReference.cache
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.Migrations.first_db.resources
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csproj.GenerateResource.cache
