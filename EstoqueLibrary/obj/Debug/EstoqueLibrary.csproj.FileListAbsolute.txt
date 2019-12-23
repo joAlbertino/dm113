@@ -1,0 +1,15 @@
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueLibrary\bin\EstoqueLibrary.dll.config
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueLibrary\bin\EstoqueLibrary.dll
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueLibrary\bin\EstoqueLibrary.pdb
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueLibrary\bin\EntityFramework.dll
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueLibrary\bin\EntityFramework.SqlServer.dll
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueLibrary\bin\EstoqueEntityModel.dll
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueLibrary\bin\EstoqueEntityModel.pdb
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueLibrary\bin\EstoqueEntityModel.dll.config
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueLibrary\bin\EntityFramework.xml
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueLibrary\bin\EntityFramework.SqlServer.xml
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueLibrary\obj\Debug\EstoqueLibrary.csprojAssemblyReference.cache
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueLibrary\obj\Debug\EstoqueLibrary.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueLibrary\obj\Debug\EstoqueLibrary.csproj.CopyComplete
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueLibrary\obj\Debug\EstoqueLibrary.dll
+C:\Users\root\source\repos\ProductEntityModelSimple\EstoqueLibrary\obj\Debug\EstoqueLibrary.pdb
